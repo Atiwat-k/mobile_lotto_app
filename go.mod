@@ -1,3 +1,4 @@
 module github.com/Atiwat-k/hello
 
-go 1.22.6
+go 1.20.5
+
